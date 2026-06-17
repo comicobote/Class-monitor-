@@ -1,0 +1,6 @@
+{
+  "name": "Aputi ss Attendance Monitor",
+  "description": "Stunning, offline-first mobile-optimized student attendance tracking for Aputi Secondary School, supporting the official Ugandan National Curriculum (O & A Level classes S.1 to S.6) with stats, student enrollment, CSV exports, and interactive registers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
